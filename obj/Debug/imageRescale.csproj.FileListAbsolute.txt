@@ -1,0 +1,10 @@
+E:\study\imageRescale\bin\Debug\imageRescale.exe.config
+E:\study\imageRescale\bin\Debug\imageRescale.exe
+E:\study\imageRescale\bin\Debug\imageRescale.pdb
+E:\study\imageRescale\obj\Debug\imageRescale.csprojAssemblyReference.cache
+E:\study\imageRescale\obj\Debug\imageRescale.Form1.resources
+E:\study\imageRescale\obj\Debug\imageRescale.Properties.Resources.resources
+E:\study\imageRescale\obj\Debug\imageRescale.csproj.GenerateResource.cache
+E:\study\imageRescale\obj\Debug\imageRescale.csproj.CoreCompileInputs.cache
+E:\study\imageRescale\obj\Debug\imageRescale.exe
+E:\study\imageRescale\obj\Debug\imageRescale.pdb
